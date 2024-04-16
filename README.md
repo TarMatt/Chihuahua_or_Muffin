@@ -1,4 +1,4 @@
-# Chihuahua or Muffin? 
+# Chihuahua or Muffin?  Matteo Tarenzi (986974)
 
 <p align="center">
   <img src="Images_github/Image_rdm.jpg" width="200">
